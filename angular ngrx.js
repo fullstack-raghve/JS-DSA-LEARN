@@ -1,8 +1,7 @@
 Certainly! Here's an example of how to use Angular with NgRx for state management:
 
 Install NgRx packages:
-bash
-Copy code
+
 npm install @ngrx/store @ngrx/effects @ngrx/entity
 Create a state interface:
 typescript
